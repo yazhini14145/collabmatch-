@@ -1,0 +1,6 @@
+{
+  "name": "CollabMatch",
+  "description": "Find your perfect collaboration. Creator discovery and brand collaboration platform connecting brands with vetted content creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
